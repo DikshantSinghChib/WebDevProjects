@@ -401,7 +401,7 @@
 }
 .p_card{
     border: 2px solid var(--light-gray);
-    height: 50vh;
+    max-height: 55vh;
     border-radius: 0.6rem;
     display: flex;
     flex-direction: column;
@@ -571,3 +571,4 @@ ul {
 .footer{
     background-color: black;
 }
+
